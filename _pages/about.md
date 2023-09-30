@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <p class="tab">gamer 🕹️, baller 🏀, problem solver 💻</p>
 
 profile:
   align: right
