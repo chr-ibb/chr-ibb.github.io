@@ -1,3 +1,3 @@
-This is my personal website, made using the al-folio Jekyll template which can be found here: https://github.com/alshedivat/al-folio
+This is my personal website, made using the [al-folio](https://github.com/alshedivat/al-folio) Jekyll template.
 
-Visit the website at: chr-ibb.github.io
+Visit the website [here](https://chr-ibb.github.io/).
