@@ -9,7 +9,7 @@ profile:
   image: profile.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>located in California, USA </p>
+     <center> <p> California, USA </p> </center>
 # <p>555 your office number</p>
 # <p>123 your address street</p>
 # <p>Your City, State 12345</p>
@@ -20,8 +20,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-TEST TEST TEST. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello, I'm Chris. I'm a Junior Software Engineer, with a recent focus in Android development. I love solving problems, learning, and working as part of a team, so software engineering is a great match. While I'm mostly self-taught, I had a strong foundation - I took a handful of CS classes while pursuing my Bachelor's in Geophysics at UC Berkeley, and I absolutely loved them (the Berkeley EECS staff are the best). I've got more small or unfinished projects than I'd care to admit, but I'm proud to say that I've finished my biggest project yet: my Reddit companion app Saveddit (link). I also fixed a [bug](https://android-review.googlesource.com/c/platform/frameworks/support/+/2163645) in the Android codebase, which is cool.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Whether it's playing Dota pubs with the homies, booting up Slippi for some Melee action, or running an RL1 in Elden Ring, I'm an avid video game enjoyer. If it's Sunday night, I'm most likely at the local park playing basketball (if you're in the area, come join!). My favorite films include Chunking Express, Science of Sleep, and Jurassic Park (it's a masterpiece; go rewatch it). I also have a passion for music (link to my guest DJ set on KPFK), and will probably put out an album... eventually... maybe...
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I'm looking forward to continuing to grow as a software engineer, taking on new and exciting roles, finally going back to Japan (host families, I miss you <3), and probably-most-likely-maybe putting out an album.
