@@ -1,18 +1,18 @@
 ---
 layout: page
-title: Saveddit
+title: Floppi
 description: A Reddit companion app for Android
-img: assets/img/floppy_with_text.png
+img: assets/img/Floppi.png
 importance: 1
 category: computer stuff
-related_publications: 
+related_publications:
 ---
 
-Saveddit is an Android app that lets you browse, search, and sort your saved posts from Reddit. Finding old saved posts on 
-Reddit can be a challenging task - sometimes near impossible. Normally, Reddit lets you scroll through your saved posts 25 at a time, 
-from most recently saved to oldest, and that's it. With Saveddit you can narrow down the list with a search, sort the list 
-in different orders, include or exclude subreddits from the list, or even all of the above at the same time! Visit the Saveddit 
-website here(TODO link). 
+Floppi is an Android app that lets you browse, search, and sort your saved posts from Reddit. Finding old saved posts on
+Reddit can be a challenging task - sometimes near impossible. Normally, Reddit lets you scroll through your saved posts 25 at a time,
+from most recently saved to oldest, and that's it. With Floppi you can narrow down the list with a search, sort the list
+in different orders, include or exclude subreddits from the list, or even all of the above at the same time! Visit the Floppi
+website here(TODO link).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -36,6 +36,6 @@ website here(TODO link).
 </div>
 
 <!-- TODO:
-    - A section for key features (Browse, Search, Sort, log-in securely, refresh), break up the gifs 1 per section (maybe record a refresh gif). 
+    - A section for key features (Browse, Search, Sort, log-in securely, refresh), break up the gifs 1 per section (maybe record a refresh gif).
     - A section for skills developed (new and old). stuff like Android, Kotlin, HTTPS, JSON, Oauth2, Gerrit, Clean Modular code, etc
 -->
