@@ -15,7 +15,7 @@ If you have any questions, comments, or concerns, please send me an email to bla
 
 <br>
 
-<h2 align="center">F.A.Q.</h2>
+<h2 align="center">Q & A</h2>
 
 <blockquote>I saved a post a really long time ago, why can't I see it in Floppi?</blockquote>
 
