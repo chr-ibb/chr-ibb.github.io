@@ -3,6 +3,7 @@ layout: page
 title: Floppi
 description: A Reddit companion app for Android
 img: assets/img/Floppi_margin.png
+logo: assets/img/Floppi.png
 importance: 1
 category: computer stuff
 related_publications:
