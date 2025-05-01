@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",function(){const t=document.querySelector(".post-description"),e=document.querySelector(".post-header img"),o=document.querySelector(".post-title");if(t&&e&&o){const n=(t.offsetWidth-o.offsetWidth)/2-e.offsetWidth/2;e.style.marginLeft=`${n}px`}});
