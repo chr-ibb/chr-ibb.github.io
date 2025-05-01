@@ -20,4 +20,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello, I'm Chris. I'm a Software Engineer. I'm mostly self-taught, though I did take a handful of CS classes while studying at UC Berkeley. I've got more small or unfinished projects than I'd care to admit, but I'm proud to say that I've finished my biggest project yet: my Reddit companion app [Floppi](/projects/floppi). I also fixed a [bug](https://android-review.googlesource.com/c/platform/frameworks/support/+/2163645) in the Android codebase, which is cool.
+Hello, I'm Chris. I'm a Software Engineer. I'm mostly self-taught, though I did take a handful of CS classes while studying at UC Berkeley. I recently finished my biggest project yet, my Reddit companion app [Floppi](/projects/floppi). I also fixed a [bug](https://android-review.googlesource.com/c/platform/frameworks/support/+/2163645) in the Android codebase, which is cool.
