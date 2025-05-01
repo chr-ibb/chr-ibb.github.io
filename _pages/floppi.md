@@ -28,7 +28,7 @@ This was easier in a previous version, but ever since moving to the more secure 
 
 <blockquote>Does Floppi sell my info, or anything like that? Does Floppi store my info in the cloud?</blockquote>
 
-No. Floppi saves your username, 0auth token, and list of reddit posts directly on your phone. That's it!
+No. Floppi saves your username, 0auth token (encrypted), and list of reddit posts directly on your phone. That's it!
 
 <blockquote>Is it safe to enter my Reddit password into Floppi?</blockquote>
 
