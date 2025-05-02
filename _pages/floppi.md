@@ -8,10 +8,10 @@ nav: false
 nav_order: 2
 horizontal: false
 ---
+<!-- TODO add the link below -->
+Welcome Floppi users! Haven't tried Floppi? Get it on the Android Play Store [here]().
 
-Welcome Floppi users! Haven't tried Floppi? Get it on the Android Play Store here(TODO link).
-
-If you have any questions, comments, or concerns, please send me an email to blah@blah.com(TODO ).
+If you have any questions, comments, or concerns, please send me an email at FloppiforReddit@gmail.com.
 
 <br>
 
