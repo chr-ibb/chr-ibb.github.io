@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of my cool projects.
 nav: true
 nav_order: 2
-display_categories: [computer stuff, other stuff, examples]
+display_categories: [computer stuff, other stuff]
 horizontal: false
 ---
 
