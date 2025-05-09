@@ -6,7 +6,7 @@ subtitle: <p class="tab">gamer 🕹️, baller 🏀, problem solver 💻</p>
 
 profile:
   align: right
-  image: profile-medium.jpg
+  image: profile-medium-96-3.gif
   image_circular: false # crops the image to make it circular
 #  address: >
 #     <center> <p> California, USA </p> </center>
