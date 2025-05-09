@@ -8,6 +8,7 @@ profile:
   align: right
   image: profile-medium-96-3.gif
   image_circular: false # crops the image to make it circular
+  link: /projects/pixobl/
 #  address: >
 #     <center> <p> California, USA </p> </center>
 # <p>555 your office number</p>
